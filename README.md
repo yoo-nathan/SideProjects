@@ -1,2 +1,2 @@
 # SideProjects
-Projects for fun
+
